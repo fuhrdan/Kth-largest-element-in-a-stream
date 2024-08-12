@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kth-largest-element-in-a-stream", "Kth-largest-element-in-a-stream.csproj", "{5A5E2E98-28C4-4856-8D6D-950E15948AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A5E2E98-28C4-4856-8D6D-950E15948AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5E2E98-28C4-4856-8D6D-950E15948AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5E2E98-28C4-4856-8D6D-950E15948AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5E2E98-28C4-4856-8D6D-950E15948AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D3EECB3-3216-4E35-9F9F-294EC1C018D2}
+	EndGlobalSection
+EndGlobal
